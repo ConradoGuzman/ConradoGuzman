@@ -12,7 +12,7 @@ I hold a **B.S. in Computer Science** from Florida Atlantic University and have 
 
 - **Technology Operations:** Incident management, problem management, production support, root cause analysis
 - **IT Service Management:** ITIL practices, BMC Remedy, incident and problem documentation
-- **Programming & Data:** Python, SQL, Java, JavaScript, C/C++, scripting
+- **Operational Analysis:** Recurring incident trends, corrective action tracking, service reliability metrics
 - **Troubleshooting:** Application logs, technical investigations, issue triage, testing
 - **Leadership:** Incident response coordination, cross-functional collaboration, stakeholder communication
 
@@ -33,14 +33,14 @@ Worked on technical certification, testing, payment technology implementations, 
 ## 🚀 Areas of Interest
 
 - Production reliability and operational improvement
-- Technical automation using Python and SQL
+- Operational reporting and service reliability improvement
 - Incident and problem management processes
 - Data analysis and troubleshooting
 - AI evaluation and emerging technology applications
 
 ## 📂 Projects
 
-I'm developing a collection of practical projects focused on technical operations, automation, and data analysis.
+I'm developing a collection of practical resources focused on incident and problem management, operational reporting, and service reliability.
 
 Future projects will be featured here as they become available.
 
